@@ -1,0 +1,6 @@
+
+*.license
+*.tgz
+deployment-apps/*
+apps/*
+apps_dev/*
